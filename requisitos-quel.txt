@@ -56,5 +56,16 @@ desenhar flowchart do pix
 
 SITEMAP E USER FLOW
 
+Colocar seu planejamento de entrevistas, o mapa de empatia de cada entrevistado e mais insights no mapa de empatia das personas.
+Subir seu rabiscoframe, desenvolver wireframe e protótipo de media para o fluxo do Pix.
+Categorizar desk. 
+
+16. tela celular confirmado com sucesso
+
+17. Colocar seu planejamento de entrevistas, o mapa de empatia de cada entrevistado e mais insights no mapa de empatia das personas.
+
+USER FLOW GUI
+SITEMAP
+
 
 
