@@ -1,0 +1,71 @@
+matriz CSD
+5 suposições
+5 dúvidas
+
+Desk
+Pegar todos post its e reorganizar por temas
+(problemas, oportunidades, tendências, 
+high-tech)
+
+Colocar Logo Alexa
+Acessibilidade, APIS, fç transacional
+Nubank, Reclamações Reclame Aqui, 
+Insights. 1-3 insights de cada bench. 
+
+Explicar os prints mobile
+
+Colocar no planejamento de entrevistas
+dia-horário-nome da pessoa
+mapa de empatia de cada entrevistado
+documentar planejamento das entrevistas e mapa
+de empatia de cada entrevista
+
+Colocar mais coisas no jobs to be done e user stories
+focar jobs to be done e user stories no pix (pagar conta,
+emprestar dinheiro 
+
+DESENVOLVER NO FIGMA - um fluxo principal, 
+o mais importante
+escala de cinza, em vez de imagem um X, 
+elementos básicos de wireframe, 
+no lugar de texto-tracinho. botão sem cor sem nada
+
+Rabiscoframe - papel -subir foto no Miro
+Fazer wireframe - escala cinza, sem escritos, sem imagens
+Desenhar fluxo do pix completo
+Transformar wireframe (copiar e colar) em protótipo
+de média. 
+No protótipo de média, em vez de risquinho vai texto. 
+Quadrado com X já tem uma descrição da Alt Text
+Botão já tem call to action (gravar, falar)
+Ainda não precisa de cor. 
+Não tem logo. Tem placeholder escrito logo. 
+Ícone de microfone - manter. 
+usar ícones simples em escala de cinza. 
+Botão de perfil já tem uma cabecinha com corpinho, cinza. 
+Só depois trabalho no diálogo.
+ANtes de fazer wireframe e média, estudar
+arquitetura da informação (buckets) - organograma/hierarquia
+
+Pegar template do canva na quarta
+Colocar as cores da identidade no slide
+Para contar a história lá. 
+
+Depois da arquitetura da info, 
+desenhar flowchart do pix
+
+SITEMAP E USER FLOW
+
+Colocar seu planejamento de entrevistas, o mapa de empatia de cada entrevistado e mais insights no mapa de empatia das personas.
+Subir seu rabiscoframe, desenvolver wireframe e protótipo de media para o fluxo do Pix.
+Categorizar desk. 
+
+16. tela celular confirmado com sucesso
+
+17. Colocar seu planejamento de entrevistas, o mapa de empatia de cada entrevistado e mais insights no mapa de empatia das personas.
+
+USER FLOW GUI
+SITEMAP
+
+
+

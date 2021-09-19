@@ -1,1 +1,0 @@
-O objetivo da criação deste produto é para que pessoas com algum tipo de limitação física inata ou adquirida, (como motora, cegueira e baixa visão), ou situacional, (como estar dirigindo ou com as duas mãos ocupadas), consigam fazer transações bancárias somente com uso da voz de forma eficaz, eficiente, e com uma experiência satisfatória. 
